@@ -28,11 +28,17 @@ const muhammadAnas = {
     focusArea: "Prompt Engineering & AI (DeepLearning.AI)",
   },
   launchedProjects: ["KidsPSLRegistartionForm"],
-  certifications: ["Prompt Engineering — DeepLearning.AI (in progress)"],
+  certifications: ["Claude 101 — Anthropic Education (Verified)"],
   status: "Actively learning Python & exploring AI tools",
   openTo: ["Internships", "Junior Developer Roles", "Collaborations"],
 };
 ```
+
+<br/>
+
+## 📜 Certifications
+
+[![Claude 101](https://img.shields.io/badge/Claude%20101-Anthropic%20Education-7dd3fc?style=for-the-badge&logo=anthropic&logoColor=black)](https://verify.skilljar.com/c/e93a3kue52ft)
 
 <br/>
 
